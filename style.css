@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+
+.value {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 7px;
+}
+
+.item {
+    margin: 10px 30px
+}
+
+.inputBox {
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    
+}
